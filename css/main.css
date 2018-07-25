@@ -1,0 +1,33 @@
+.cabeza{
+	text-align: center;
+	background-color: orange;
+	height:200px;
+	padding: 20px;
+	font-family: 'Cabin Sketch', cursive;
+	color: white;
+	width: 100%;
+	border: solid black;
+
+
+}
+
+.timbo{
+	height: 620px;
+}
+
+.dbo{
+	height: 620px;
+}
+
+.dbo:hover{
+	opacity: 1;
+}
+
+.danny{
+	height: 620px;
+}
+.homies{
+	text-align: center;
+	background-color: pink;
+	margin: -8px;
+}
